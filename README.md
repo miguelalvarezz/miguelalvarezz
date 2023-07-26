@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋  I'm Miguel!
+I'm a aspiring IT engineer focused on the applicattions of them in this new world
 
 <!--
 **miguelalvarezz/miguelalvarezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
