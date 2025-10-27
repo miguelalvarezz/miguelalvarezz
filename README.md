@@ -23,10 +23,7 @@ Currently working on my thesis to finish my studies in Computer Science<br>I’m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" height="40"/> 
 </p>
 
+# 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalvarezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
-
-
-# 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalvarezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
