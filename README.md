@@ -25,5 +25,5 @@ Currently working on my thesis to finish my studies in Computer Science<br>I’m
 
 # 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalvarezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalvarezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800"/>
 </p>
