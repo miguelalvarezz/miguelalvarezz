@@ -23,7 +23,7 @@ Currently working on my thesis to finish my studies in Computer Science<br>I’m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" height="40"/> 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=miguelalvarezz&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=miguelalvarezz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # 📊 GitHub Stats
