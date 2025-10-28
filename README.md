@@ -1,5 +1,5 @@
 # Hi! I'm Miguel 🤝
-Currently working on my thesis to finish my studies in Computer Science<br>I’m improving my knowledge to specialize in applied data analysis in finance<br> In addition to programming and data analytics, I dedicate my free time to economics, finance and music production
+Currently working on my thesis to finish my studies in Computer Science.<br>I’m improving my knowledge to specialize in applied data analysis in finance.<br> In addition to programming and data analytics, I dedicate my free time to economics, finance and music production.
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
